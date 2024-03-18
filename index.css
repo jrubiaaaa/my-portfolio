@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(32, 101, 192);
+    padding: 10px;
+}
+
+body {
+    background-color: rgb(32, 101, 192);
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav {
+    position: sticky;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: 25px;
+    background-color: rgb(71, 174, 248);
+    text-align: center;
+    font-family: 'Times New Roman';
+}
